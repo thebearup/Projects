@@ -10,3 +10,9 @@ Bugs/Warnings
   party members).
 - You can modify Leo's skills (just like Gogo). But if you replace Shock,
   you cannot reselect it.
+- Gogo/Leo cannot equip swords, so if you unequip the Crystal sword, you can't
+  reequip it.
+
+This patch was made using ff6tools; credit to everything8215 for making this
+excellent toolset.
+https://github.com/everything8215/ff6tools

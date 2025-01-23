@@ -14,6 +14,9 @@ Bugs/Warnings
 - Gogo/Leo cannot equip swords, so if you unequip the Crystal sword, you can't
   reequip it.
 
+The zip file now includes a .srm file. 
+The party is just outside of Thamasa, so you can quickly recruit Leo :)
+
 This patch was made using ff6tools; credit to everything8215 for making this
 excellent toolset.
 https://github.com/everything8215/ff6tools
